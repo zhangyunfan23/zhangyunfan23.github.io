@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research engineer and PhD candidate at NTU with experience spanning AI research, 3D scene synthesis, and IC design. At Alibaba Joint Research Institute, my work focuses on large language models, 3D content generation, and video enhancement.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I held senior engineering roles at Marvell and Skyworks, specializing in ultra-high-speed, low-power IC design and system-level solutions, with multiple patents in storage and communication technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With a strong foundation in both hardware and AI, I enjoy building solutions that bridge research and real-world applications. Always open to connecting with professionals in AI, computer vision, and electronic design to explore collaboration and innovation opportunities.
