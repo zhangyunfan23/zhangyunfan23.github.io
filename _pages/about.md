@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='ntu.edu.sg'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>. 50 Nanyang Ave, Singapore 639798
+subtitle: <a href='#'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>. 50 Nanyang Ave, Singapore 639798
 
 profile:
   align: right
