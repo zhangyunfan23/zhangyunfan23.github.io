@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>. 50 Nanyang Ave, Singapore 639798
+subtitle: <a href='#'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>+65 xxxx xxxx</p>
     <p>50 Nanyang Ave</p>
