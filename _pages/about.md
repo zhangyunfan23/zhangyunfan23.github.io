@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research engineer and PhD candidate at NTU with experience spanning AI research, 3D scene synthesis, and IC design. At Alibaba Joint Research Institute, my work focuses on large language models, 3D content generation, and video enhancement.
+I am a research fellow at NTU with experience spanning AI research, 3D scene synthesis, and IC design. At Alibaba Joint Research Institute, my work focuses on large language models, 3D content generation, and video enhancement.
 
 Previously, I held senior engineering roles at Marvell and Skyworks, specializing in ultra-high-speed, low-power IC design and system-level solutions, with multiple patents in storage and communication technologies.
 
