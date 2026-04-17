@@ -2,24 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>
+subtitle: Research Scientist, <a href='https://www.ntu.edu.sg/angel'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>. 3D Computer Vision · LLMs.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>+65 xxxx xxxx</p>
-    <p>50 Nanyang Ave</p>
-    <p> Singapore 639798</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research fellow at NTU with experience spanning AI research, 3D scene synthesis, and IC design. At Alibaba Joint Research Institute, my work focuses on large language models, 3D content generation, and video enhancement.
+I am a Research Scientist at the Alibaba-NTU ANGEL CorpLab, working on LLMs and 3D computer vision. My current research spans domain-specific LLMs for clinical applications (GraphRAG, KAG, multi-turn diagnostic dialogue), inference efficiency, and 3D generative pipelines. I hold a Ph.D. in Computer Science from Nanyang Technological University.
 
-Previously, I held senior engineering roles at Marvell and Skyworks, specializing in ultra-high-speed, low-power IC design and system-level solutions, with multiple patents in storage and communication technologies.
-
-With a strong foundation in both hardware and AI, I enjoy building solutions that bridge research and real-world applications. Always open to connecting with professionals in AI, computer vision, and electronic design to explore collaboration and innovation opportunities.
+Before returning to academia, I spent eight years as a Senior Engineer at Marvell and Skyworks, designing ultra-high-speed, low-power ICs with several granted U.S. patents. I enjoy building systems that bridge hardware-aware engineering with modern AI research, and I'm always open to connecting with collaborators in AI, computer vision, and electronic design.

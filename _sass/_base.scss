@@ -289,6 +289,8 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
 
     &:hover {
       color: var(--global-hover-color);

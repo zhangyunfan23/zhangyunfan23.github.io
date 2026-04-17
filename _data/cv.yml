@@ -2,96 +2,156 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Zhang Yunfan, Ph.D.
+    - name: Location
+      value: Singapore
+    - name: Email
+      value: yunfan.zhang23@gmail.com
+    - name: Focus
+      value: Research Scientist — 3D Computer Vision, Large Language Models
     - name: Languages
-      value: English, German
+      value: English (Proficient), Chinese (Native)
 
-- title: Education
-  type: time_table
+- title: Professional Summary
+  type: list
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - AI researcher and engineer with a Ph.D. in Computer Science and 8+ years of cross-functional experience spanning applied generative AI, multi-turn dialogue systems, and high-performance hardware architecture.
+    - Engineered domain-specific large language models, leveraging advanced Knowledge-Augmented Generation (KAG) and GraphRAG to drive complex, agentic reasoning for clinical applications.
+    - Deep expertise spanning the entire AI lifecycle — from constructing high-fidelity training datasets and applying SFT/RL, to deploying memory-efficient inference pipelines.
+    - Former Senior Engineer at Marvell and Skyworks with multiple granted patents, bringing a rigorous, hardware-aware perspective to deploying robust, scalable machine learning models into production.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist
+      institution: Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)
+      year: Jan 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Clinical Multi-Turn Dialogue: Architected a multi-turn dialogue system that emulates real-world medical consultations and diagnostic workflows."
+        - "Dataset Engineering & Model Tuning: Spearheaded the extraction and construction of a large-scale, high-fidelity dataset derived from the MIMIC clinical database for training, SFT, and conversational evaluation."
+        - "Knowledge-Augmented Systems (KAG/GraphRAG): Engineered KAG and GraphRAG frameworks for the medical domain, enhancing LLM agentic planning over complex knowledge graphs and validating performance against the MedQA benchmark."
+        - "Inference Efficiency: Improved serving throughput and reduced latency by applying memory-efficient attention mechanisms (FlashAttention, SDPA) and vLLM for scalable deployment."
+    - title: Research Engineer II
+      institution: Alibaba-NTU Singapore Joint Research Institute
+      year: Jan 2020 - Jan 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "3D Vision & Generative AI: Architected and optimized end-to-end pipelines for 3D indoor scene synthesis and point cloud generation, automating complex 3D modeling workflows in Python and Blender."
+        - "Cross-Functional Product Integration: Partnered with the Alibaba Video team to deploy AI models powering automated video captioning, gaming recaps, and intelligent video enhancement for end users."
+    - title: Senior Engineer
+      institution: Marvell Asia Pte. Ltd.
+      year: Jun 2012 - Jan 2020
       description:
+        - "Hardware-Software Integration: Architected a C# user interface integrated with hardware drivers for advanced bench testing and system-level validation."
+        - "System Architecture: Led the digital and software architecture for the Pre-Amp team, integrating peripheral control logic and a high-speed digital interface (>100 MHz) for register programming."
+        - "Test Automation: Developed automated testing protocols that reduced full-suite evaluation time from 2 days to 3 hours."
+        - "Low-Power Design: Engineered a high-performance write driver with ultra-low power consumption, executing the full cycle from RTL design and synthesis through place-and-route."
+    - title: Senior Engineer
+      institution: Skyworks Global Pte. Ltd.
+      year: Feb 2017 - Jun 2018
+      description:
+        - "Product Lifecycle Management: Directed silicon controller design for 2G/3G/4G power amplifiers from specification through circuit realization and ATE, achieving a 100% first-silicon success rate across all Si/SOI die designs."
+        - "Cross-Disciplinary Collaboration: Partnered with RF designers to develop the SOI Band Select Switch Module, implementing custom digital logic, level shifters, and ESD networks, and driving process migration to volume production."
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ph.D. in Computer Science
+      institution: Nanyang Technological University, Singapore
+      year: 2020 - 2025
+      description:
+        - 'Thesis: "Efficient 3D vision generative techniques for metaverse applications"'
+        - "Advisor: Assoc. Prof. Nicholas Vun"
+        - "CGPA: 4.33 / 5.00"
+    - title: M.Sc. in Electrical and Computer Engineering
+      institution: National University of Singapore, Singapore
+      year: 2014 - 2016
+      description:
+        - "CGPA: 4.60 / 5.00"
+    - title: B.Eng. in Electrical and Electronic Engineering
+      institution: Nanyang Technological University, Singapore
+      year: 2008 - 2012
+      description:
+        - "First Class Honors (CGPA: 4.80 / 5.00)"
+        - "Micron Gold Medal"
+        - "EEE Dean's List (2008-09, 2009-10, 2011-12)"
+        - "Singapore Ministry of Education Scholarship"
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "Style-Consistent 3D Indoor Scene Synthesis with Decoupled Objects"
+      institution: "IJCNN"
+      year: 2025
+      description:
+        - "Yunfan Zhang, Hong Huang, Zhiwei Xiong, Zhiqi Shen, Guosheng Lin, Hao Wang, Nicholas Vun"
+    - title: "InsTex: Indoor Scenes Stylized Texture Synthesis"
+      institution: "arXiv:2501.13969"
+      year: 2025
+      description:
+        - "Yunfan Zhang, Z. Xiong, Z. Shen, G. Lin, H. Wang, N. Vun"
+    - title: "Image Aesthetics Assessment via Learnable Queries"
+      institution: "ICASSP"
+      year: 2024
+      description:
+        - "Zhiwei Xiong, Yunfan Zhang, Zhiqi Shen, Peiran Ren, Han Yu"
+    - title: "Multi-modal Learnable Queries for Image Aesthetics Assessment"
+      institution: "ICME"
+      year: 2024
+      description:
+        - "Zhiwei Xiong, Yunfan Zhang, Zhiqi Shen, Peiran Ren, Han Yu"
+    - title: "StarNet: Style-aware 3D Point Cloud Generation"
+      institution: "arXiv:2303.15805"
+      year: 2023
+      description:
+        - "Yunfan Zhang, H. Wang, G. Lin, V.C.H. Nicholas, Z. Shen, C. Miao"
+
+- title: Patents
+  type: time_table
+  contents:
+    - title: "Balanced current mirrors for biasing a magnetic resistor in a hard disk drive"
+      institution: "US Patent US10770100B1"
+      year: 2020
+      description:
+        - "Xiaowei Huang, Mei Lei, Yunfan Zhang, SW Myat"
+    - title: "Apparatus and method for calibrating signal synchronization"
+      institution: "US Patent US10095263B1"
+      year: 2018
+      description:
+        - "Kai Wu, Yunfan Zhang"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2012
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Micron Gold Medal (NTU EEE)
+        - First Class Honors, B.Eng. in Electrical and Electronic Engineering
+    - year: 2008 - 2012
       items:
-        - Max Planck Medal
+        - Singapore Ministry of Education Scholarship
+        - EEE Dean's List (2008-09, 2009-10, 2011-12)
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI Frameworks & Methods
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - PyTorch, Large Language Models (LLMs), Agentic Frameworks
+        - GraphRAG, Knowledge-Augmented Generation (KAG)
+        - Supervised Fine-Tuning (SFT), Reinforcement Learning (RL)
+        - 3D Computer Vision, Point Cloud Generation
+    - title: Inference & Systems Optimization
       items:
-        - Description 1.
-        - Description 2.
+        - vLLM, FlashAttention, SDPA
+        - Hardware-Software Co-design
+        - Memory Efficiency (HBM / CXL awareness)
+    - title: Programming & Tools
+      items:
+        - Python, C++, C#, SQL
+        - Git, Blender, Synopsys, LaTeX
 
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - English (Proficient)
+    - Chinese (Native)
