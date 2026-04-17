@@ -2,7 +2,7 @@
 
 Personal website of **Zhang Yunfan, Ph.D.** — Research Scientist at the Alibaba-NTU Global e-Sustainability CorpLab (ANGEL), working on LLMs and 3D computer vision.
 
-🌐 Live site: <https://zhangyunfan23.github.io>
+🌐 Live site: <https://zhangyunfan.tech>
 
 ## About
 
