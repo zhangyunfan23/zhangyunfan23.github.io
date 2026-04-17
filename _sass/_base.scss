@@ -215,6 +215,21 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+.about-grid {
+  margin-bottom: 1.5rem;
+  align-items: flex-start;
+}
+
+.about-grid .about-profile {
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 576px) {
+  .about-grid .about-profile {
+    margin-bottom: 0;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
