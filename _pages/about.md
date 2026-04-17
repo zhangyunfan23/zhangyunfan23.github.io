@@ -5,7 +5,7 @@ permalink: /
 subtitle: Research Scientist, <a href='https://www.ntu.edu.sg/angel'>Alibaba-NTU Global e-Sustainability CorpLab (ANGEL)</a>. 3D Computer Vision · LLMs.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
 
