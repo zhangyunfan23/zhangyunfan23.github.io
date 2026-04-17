@@ -87,10 +87,7 @@
       "startDate": "2020-01-01",
       "endDate": "2025-01-01",
       "score": "CGPA 4.33 / 5.00",
-      "courses": [
-        "Thesis: Efficient 3D vision generative techniques for metaverse applications",
-        "Advisor: Assoc. Prof. Nicholas Vun"
-      ]
+      "courses": ["Thesis: Efficient 3D vision generative techniques for metaverse applications", "Advisor: Assoc. Prof. Nicholas Vun"]
     },
     {
       "institution": "National University of Singapore, Singapore",
@@ -112,11 +109,7 @@
       "startDate": "2008-01-01",
       "endDate": "2012-01-01",
       "score": "First Class Honors, CGPA 4.80 / 5.00",
-      "courses": [
-        "Micron Gold Medal",
-        "EEE Dean's List (2008-09, 2009-10, 2011-12)",
-        "Singapore Ministry of Education Scholarship"
-      ]
+      "courses": ["Micron Gold Medal", "EEE Dean's List (2008-09, 2009-10, 2011-12)", "Singapore Ministry of Education Scholarship"]
     }
   ],
   "awards": [
@@ -215,28 +208,13 @@
       "name": "Inference & Systems Optimization",
       "level": "Advanced",
       "icon": "fa-solid fa-gauge-high",
-      "keywords": [
-        "vLLM",
-        "FlashAttention",
-        "SDPA",
-        "Hardware-Software Co-design",
-        "Memory Efficiency (HBM / CXL awareness)"
-      ]
+      "keywords": ["vLLM", "FlashAttention", "SDPA", "Hardware-Software Co-design", "Memory Efficiency (HBM / CXL awareness)"]
     },
     {
       "name": "Programming & Tools",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C++",
-        "C#",
-        "SQL",
-        "Git",
-        "Blender",
-        "Synopsys",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "C++", "C#", "SQL", "Git", "Blender", "Synopsys", "LaTeX"]
     }
   ],
   "languages": [
